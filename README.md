@@ -23,6 +23,6 @@ Graduate of <a href="https://codeclan.com/">
 📫 How to reach me: ...
 
 
-<a href="https://twitter.com/alanhood77" target="_blank"><img src="./assets/tw.png" alt="Twitter" width="30"></a>
+<a href="https://twitter.com/alanhood77" target="_blank"><img src="https://raw.githubusercontent.com/AlHood77/AlHood/assets/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/alanhood77/" target="_blank"><img src="./assets/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/alanhood77/" target="_blank"><img src="./assets/in.png" alt="LinkedIn" width="30"></a>
