@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://codeclan.com/">
-        <img width="30px" alt="CodeClan" src="./assets/CodeClan.png">&nbsp;
+        <img width="50px" alt="CodeClan" src="./assets/CC.png">&nbsp;
 </a>
