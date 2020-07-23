@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://codeclan.com/">
-        <img width="50px" alt="CodeClan" src="./assets/CC.png">&nbsp;
+Graduate of <a href="https://codeclan.com/">
+        <img width="70px" alt="CodeClan" src="./assets/CC.png">&nbsp;
 </a>
+
+![Alan's github stats](https://github-readme-stats.vercel.app/api?username=AlHood77&show_icons=true)
