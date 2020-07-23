@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Graduate of <a href="https://codeclan.com/">
-        <img width="70px" alt="CodeClan" src="./assets/CC.png">&nbsp;
+        <img width="70px" alt="CodeClan" src="https://github.com/AlHood77/AlHood77/blob/master/assets/CC.png">&nbsp;
 </a>
 
 ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=AlHood77&show_icons=true)
