@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://codeclan.com/">
+        <img width="30px" alt="CodeClan" src="./assets/CodeClan.png">&nbsp;
+</a>
