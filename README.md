@@ -20,9 +20,11 @@ Graduate of <a href="https://codeclan.com/">
 
 ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=AlHood77&show_icons=true)
 
+
 📫 How to reach me: ...
 
 
 <a href="https://twitter.com/alanhood77" target="_blank"><img src="https://github.com/AlHood77/AlHood77/blob/master/assets/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/alanhood77/" target="_blank"><img src="https://github.com/AlHood77/AlHood77/blob/master/assets/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/alanhood77/" target="_blank"><img src="https://github.com/AlHood77/AlHood77/blob/master/assets/in.png" alt="LinkedIn" width="30"></a>
+[![Github](https://img.shields.io/github/followers/AlHood77?label=Follow&style=social)](https://github.com/AlHood77)
